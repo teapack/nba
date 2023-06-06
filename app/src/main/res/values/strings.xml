@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NBA</string>
+    <!-- Button. -->
+    <string name="button_try_again">Try again</string>
+    <!-- Content description. -->
+    <string name="content_description_button_navigate_up">Up</string>
+    <string name="content_description_open_player_detail">Open player detail</string>
+    <string name="content_description_open_team_detail">Open team detail</string>
+    <!-- Errors. -->
+    <string name="error_api_empty_response">Your request is invalid.</string>
+    <string name="error_api_http_bad_request">Your request is invalid.</string>
+    <string name="error_api_http_not_found">The specified resource could not be found.</string>
+    <string name="error_api_http_not_acceptable">You requested a format that isn\'t json.</string>
+    <string name="error_api_http_too_many_requests">Stop bombarding us.</string>
+    <string name="error_api_http_internal_server_error">We had a problem with our server. Try again later.</string>
+    <string name="error_api_http_service_unavailable">We\'re temporarily offline for maintenance. Please try again later.</string>
+    <string name="error_api_http_unknown">Unknown error</string>
+    <string name="error_null_id">The passed ID is null, can\'t load data.</string>
+    <string name="error_unknown">Something went wrong, please try again later.</string>
+    <!-- Label. -->
+    <string name="label_player_first_name">First name</string>
+    <string name="label_player_last_name">Last name</string>
+    <string name="label_player_position">Position</string>
+    <string name="label_player_team">Team</string>
+    <string name="label_player_height_feet">Height (ft)</string>
+    <string name="label_player_height_inches">Height (in)</string>
+    <string name="label_player_weight_pounds">Weight (lb)</string>
+    <string name="label_team_full_name">Full name</string>
+    <string name="label_team_name">Name</string>
+    <string name="label_team_abbreviation">Abbreviation</string>
+    <string name="label_team_city">City</string>
+    <string name="label_team_conference">Conference</string>
+    <string name="label_team_division">Division</string>
+    <!-- Title. -->
+    <string name="title_player_list">NBA Players</string>
+    <string name="title_team_details">Team details</string>
+</resources>
